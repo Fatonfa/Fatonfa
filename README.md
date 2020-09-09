@@ -2,8 +2,6 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br>
-  <samp>
 
 I'm a data enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, machine learning, deep learning, NLP and API Backend Development.
 
